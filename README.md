@@ -1,5 +1,11 @@
 # ForgetMeNot
 Forget Me Not is a task log to help you remember to do the important things.
+## Features
+User Sign On
+List for To Dos
+List for Completed 
+List for Future To Dos
+Push Notifications for iOS
 
 ## Style Guide
 ![StyleGuide](https://readme-images.s3.us-east-2.amazonaws.com/ForgetMeNot_StyleGuide.png)
